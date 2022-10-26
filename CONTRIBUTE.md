@@ -33,6 +33,7 @@ const participants: Array<Participant> = [
   // Adicione no mesmo formato aqui
 ];
 ```
+> OBS: o campo github é o nome do seu perfil no github
 
 ## Commit
 
