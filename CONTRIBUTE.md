@@ -16,7 +16,23 @@ git checkout -b adicionar-nome-daniel
 
 Adicione seu nome no arquivo especificado.
 
-WIP: essa parte ainda será documentada.
+Vá em `./src/App.tsx`, encontre a linha que contenha `// Array de participantes` e adicione seu nome no array.
+
+```ts
+const participants: Array<Participant> = [
+  {
+    name: "Daniel Boll",
+    bio: "Estudante do quarto ano bla bla bla",
+    github: "daniel-boll",
+  },
+  {
+    name: "Pablo Hugen",
+    bio: "Estudante do quarto ano bla bla bla",
+    github: "tomcat-42",
+  },
+  // Adicione no mesmo formato aqui
+];
+```
 
 ## Commit
 
