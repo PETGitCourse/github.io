@@ -1,8 +1,12 @@
 # <h1 align="center">Como contribuir?</h1>
 
+## Demonstre seu amor
+
+Dê uma estrelinha à esse repositório. Só clicar no botão star no canto superior direito da página.
+
 ## Fork
 
-Faça o fork desse repositório para que você possa fazer as alterações.
+Faça o fork desse repositório para que você possa fazer as alterações. Botão encontrado no canto superior direito da página.
 
 ## Branch
 
