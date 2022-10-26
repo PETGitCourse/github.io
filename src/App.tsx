@@ -25,7 +25,7 @@ function App() {
       <div className="card">
         <ButtonWithIcon icon={<AiFillGithub />} content="Repositório" />
       </div>
-      <p className="read-the-docs">Me altere</p>
+      <p className="read-the-docs">Algum outro texto</p>
     </div>
   );
 }
