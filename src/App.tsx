@@ -71,6 +71,11 @@ function App() {
       bio: "Estudante do quarto ano bla bla bla",
       github: "tomcat-42",
     },
+    {
+      name: "Vinicius Muller de Freitas",
+      bio: "Estudante do quarto ano bla bla bla",
+      github: "WoolliestTomb",
+    },
   ];
 
   return (
