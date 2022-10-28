@@ -28,7 +28,7 @@ const ButtonWithIcon = ({ icon, content, url }: ButtonWithIcon) => {
 
 interface Participant {
   name: string;
-  bio: string;
+  bio?: string;
   github: string;
 }
 
@@ -75,6 +75,10 @@ function App() {
       name: "Vinicius Muller de Freitas",
       bio: "Estudante do quarto ano bla bla bla",
       github: "WoolliestTomb",
+    },
+    {
+      name: "Halim Shams",
+      github: "Halim-Shams",
     },
   ];
 
