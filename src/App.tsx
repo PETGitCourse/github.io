@@ -80,6 +80,10 @@ function App() {
       name: "Halim Shams",
       github: "Halim-Shams",
     },
+    {
+      name: "Felipi Lima Matozinho",
+      github: "Matozinho",
+    },
   ];
 
   return (
